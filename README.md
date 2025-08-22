@@ -11,7 +11,49 @@
 🌐 Always building, breaking, and fixing in the name of learning.  
 
 ---
+## 🎓 Certifications
 
+**Current**  
+- ✅ **CompTIA A+**  
+- ✅ **ITIL 4 Foundation**
+
+**In progress**  
+- 📘 **Network+** — Objectives covered: IPv4 basics, ports/protocols, wired/wireless standards, VPN use-cases  
+- 🔐 **Security+** — Objectives starting: threat types, basic hardening, identity concepts
+---
+# 🚀 Projects Showcase  
+
+## 📌 Jira Ticketing Lab  
+- ✅ Simulated IT workflows, triage, and escalation  
+- ✅ Created/managed tickets, added comments/attachments  
+[![View Repo](https://img.shields.io/badge/GitHub-Jira%20Project-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/jira-ticketing-lab)  
+
+---
+
+## 📌 osTicket Helpdesk  
+- ✅ Installed & configured **osTicket** (help topics, priorities, SLAs)  
+- ✅ Set up roles/departments and agent permissions  
+- ✅ Tested end-to-end ticket lifecycle with canned responses  
+[![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/osticket-project)  
+
+---
+
+## 📌 Azure Cloud Lab  
+- ✅ Deployed Windows 10 VMs and verified connectivity  
+- ✅ Organized **Resource Groups** and **Storage Accounts** (containers/blobs)  
+- ✅ Applied **RBAC** and storage access policies; monitored usage/lifecycle  
+[![View Repo](https://img.shields.io/badge/GitHub-Azure%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/azure-cloud-lab)  
+
+---
+
+## 📌 Homelab Build  
+- ✅ Virtualized hosts with **VirtualBox / Proxmox**  
+- ✅ Linux installs, networking basics, service experiments  
+- ✅ Goal: stable lab for AD, monitoring, and self-hosted apps  
+[![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/homelab-project)  
+
+
+---
 ## ☁️ IT Skills I’m Practicing  
 - 🔹 **Azure Cloud**: Resource Groups, VMs, Storage Accounts, RBAC, monitoring  
 - 🔹 **VPNs**: Secure networking with ProtonVPN  
@@ -30,62 +72,6 @@
 - 🏠 Started a **mini homelab** with VirtualBox/Proxmox  
 
 **Next project:** 🥧 Building a **Raspberry Pi retro gaming empire**  
-
----
-
-## 🚀 Projects Showcase  
-
-<details>
-  <summary>📌 Jira Ticketing Lab</summary>
-  <p>
-    ✅ Simulated IT workflows with Jira  
-    ✅ Created and managed tickets  
-    ✅ Practiced troubleshooting & escalation  
-  </p>
-</details>
-
-<details>
-  <summary>📌 osTicket Helpdesk</summary>
-  <p>
-    ✅ Installed and configured **osTicket** on a test environment  
-    ✅ Customized ticket categories, priorities, and SLAs  
-    ✅ Practiced role-based access & workflow simulation  
-    ✅ Learned the fundamentals of IT support ticketing systems  
-  </p>
-</details>
-
-<details>
-  <summary>📌 Azure Cloud Lab</summary>
-  <p>
-    ✅ Deployed VMs, storage, and resource groups  
-    ✅ Applied RBAC and storage policies  
-    ✅ Practiced enterprise deployment simulations  
-  </p>
-</details>
-
-<details>
-  <summary>📌 Homelab Build</summary>
-  <p>
-    ✅ Experimented with Proxmox & VirtualBox  
-    ✅ Configured networking, VMs, and Linux installs  
-    ✅ Goal: self-host services for practice  
-  </p>
-</details>
-
----
-## 🎓 Certification Tracker
-
-**Current**  
-- ✅ **CompTIA A+**  
-- ✅ **ITIL 4 Foundation**
-
-**In progress**  
-- 📘 **Network+** — Objectives covered: IPv4 basics, ports/protocols, wired/wireless standards, VPN use-cases  
-- 🔐 **Security+** — Objectives starting: threat types, basic hardening, identity concepts
-
-**Planned**  
-- 🪟 **Microsoft: Azure/Windows Server** lab verifications in homelab
-
 ---
 
 ## 🧪 Lab Roadmap (near-term builds)
