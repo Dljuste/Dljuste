@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Daphne  
-Welcome to my IT Portfolio 🚀  
 ---
 
 ## 👩‍💻 About Me  
