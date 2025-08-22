@@ -17,15 +17,23 @@
 
 ## 📌 Jira Ticketing Lab  
 - ✅ Simulated IT workflows, triage, and escalation  
-- ✅ Created/managed tickets, added comments/attachments  
+- ✅ Created/managed tickets, added comments/attachments
+    
 [![View Repo](https://img.shields.io/badge/GitHub-Jira%20Project-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/jira-ticketing-lab)  
 
 ---
 
 ## 📌 osTicket Helpdesk  
-- ✅ Prerequisites and Installation
-- ✅ Set up roles/departments and agent permissions  
-- ✅ Tested end-to-end ticket lifecycle with canned responses  
+- ✅ Microsoft Azure subscription (for creating VMs)
+
+- ✅ Windows 10 / Windows Server VM (with Remote Desktop access)
+
+- ✅ Internet Information Services (IIS) installed and running
+
+- ✅ PHP and MySQL installed and configured
+
+- ✅ Downloaded osTicket installation files
+  
 [![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/osTicket---Prerequisites-and-Installation)  
 
 ---
@@ -33,7 +41,8 @@
 ## 📌 Azure Cloud Lab  
 - ✅ Deployed Windows 10 VMs and verified connectivity  
 - ✅ Organized **Resource Groups** and **Storage Accounts** (containers/blobs)  
-- ✅ Applied **RBAC** and storage access policies; monitored usage/lifecycle  
+- ✅ Applied **RBAC** and storage access policies; monitored usage/lifecycle
+    
 [![View Repo](https://img.shields.io/badge/GitHub-Azure%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/azure-cloud-lab)  
 
 ---
@@ -41,7 +50,8 @@
 ## 📌 Homelab Build  
 - ✅ Virtualized hosts with **VirtualBox / Proxmox**  
 - ✅ Linux installs, networking basics, service experiments  
-- ✅ Goal: stable lab for AD, monitoring, and self-hosted apps  
+- ✅ Goal: stable lab for AD, monitoring, and self-hosted apps
+    
 [![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/homelab-project)  
 
 
