@@ -73,18 +73,6 @@
 </details>
 
 ---
-
-## 🧭 Skill Matrix (What I can show today)
-
-| Area | What I built/practiced | Tools |
-|---|---|---|
-| Cloud (Azure) | RG structure, VM deploy, storage & RBAC | Azure Portal, CLI (basic) |
-| Identity/Windows | User/GPO/password policy (learning) | AD DS, GPMC, PowerShell |
-| ITSM | Ticket intake → SLA → resolution | Jira, **osTicket** |
-| Networking | VPN use-cases, basic subnetting & ports | ProtonVPN, Wireshark (light) |
-| Homelab | Virtualization + service trials | Proxmox, VirtualBox, Linux |
-| Troubleshooting | Imaging/recovery, device repair | Medicat, hardware tinkering |
-
 ## 🎓 Certification Tracker
 
 **Current**  
