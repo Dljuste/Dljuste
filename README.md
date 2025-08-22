@@ -23,7 +23,7 @@
 ---
 
 ## 📌 osTicket Helpdesk  
-- ✅ Installed & configured **osTicket** (help topics, priorities, SLAs)  
+- ✅ Prerequisites and Installation
 - ✅ Set up roles/departments and agent permissions  
 - ✅ Tested end-to-end ticket lifecycle with canned responses  
 [![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/osticket-project)  
