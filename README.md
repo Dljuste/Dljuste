@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 osTicket Helpdesk  
+## 📌 osTicket Installation  
 - ✅ Microsoft Azure subscription (for creating VMs)
 
 - ✅ Windows 10 / Windows Server VM (with Remote Desktop access)
