@@ -1,5 +1,6 @@
+<!-- Fancy Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Daphne;IT+Explorer+%7C+Builder+%7C+Tinkerer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=💻%20Daphne's%20IT%20Portfolio&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
 </p>
 
 ---
