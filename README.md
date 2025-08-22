@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=💻%20Daphne's%20IT%20Portfolio&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
 </p>
 ---
+
 ## 👩‍💻 About Me  
 🎓 Currently pursuing my **B.S. in Information Technology at WGU**  
 🔧 Certified: **CompTIA A+** | **ITIL 4**  
