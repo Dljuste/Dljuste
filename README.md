@@ -67,18 +67,7 @@
 - 🏠 Started a **mini homelab** with VirtualBox/Proxmox  
 
 **Next project:** 🥧 Building a **Raspberry Pi retro gaming empire**  
----
 
-## 🧪 Lab Roadmap (near-term builds)
-
-- 🧱 **Active Directory mini-domain**  
-  - Users/OUs, GPOs for password/lock screen, basic login scripts  
-- 📜 **PowerShell utility pack**  
-  - New-User script, bulk CSV import, folder permission audit  
-- 📈 **Monitoring**  
-  - Self-hosted dashboard (e.g., uptime checks) inside homelab  
-- 🥧 **Raspberry Pi Retro**  
-  - Controller mapping, ROM management, network share for saves
 ---
 
 <p align="center">
