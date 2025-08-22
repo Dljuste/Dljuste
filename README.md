@@ -11,12 +11,7 @@
 🌐 Always building, breaking, and fixing in the name of learning.  
 
 ---
-## 🎓 Certifications
-
-**Current**  
-- ✅ **CompTIA A+**  
-- ✅ **ITIL 4 Foundation**
-
+## 🎓 Upcoming Certifications
 **In progress**  
 - 📘 **Network+** — Objectives covered: IPv4 basics, ports/protocols, wired/wireless standards, VPN use-cases  
 - 🔐 **Security+** — Objectives starting: threat types, basic hardening, identity concepts
