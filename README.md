@@ -38,12 +38,18 @@
 
 ---
 
-## 📌 Azure Cloud Lab  
-- ✅ Deployed Windows 10 VMs and verified connectivity  
-- ✅ Organized **Resource Groups** and **Storage Accounts** (containers/blobs)  
-- ✅ Applied **RBAC** and storage access policies; monitored usage/lifecycle
+## 📌 Azure/AD Cloud Lab  
+- ✅ Deployed Windows Server VM in Azure and configured as Domain Controller  
+- ✅ Installed and configured Active Directory Domain Services (AD DS)  
+- ✅ Created and organized Organizational Units (OUs) for users and groups  
+- ✅ Implemented Group Policy Objects (GPOs) for password policies  
+- ✅ Configured GPOs to map network drives for users  
+- ✅ Applied GPO to enforce a default desktop wallpaper across the domain  
+- ✅ Restricted Control Panel access for non-admin users via GPO  
+- ✅ Blocked USB storage devices for enhanced data security  
+
     
-[![View Repo](https://img.shields.io/badge/GitHub-Azure%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/azure-cloud-lab)  
+[![View Repo](https://img.shields.io/badge/GitHub-Azure/AD%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/azure-cloud-lab)  
 
 ---
 
