@@ -49,7 +49,7 @@
 - ✅ Blocked USB storage devices for enhanced data security  
 
     
-[![View Repo](https://img.shields.io/badge/GitHub-Azure/AD%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/azure-cloud-lab)  
+[![View Repo](https://img.shields.io/badge/GitHub-Azure/AD%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/ActiveDirectory-GPO)  
 
 ---
 
