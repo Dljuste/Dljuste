@@ -53,7 +53,7 @@
 
 ---
 
-## 📌 Homelab Build  
+## 📌 (Coming Soon) Homelab Build  
 - ✅ Virtualized hosts with **VirtualBox / Proxmox**  
 - ✅ Linux installs, networking basics, service experiments  
 - ✅ Goal: stable lab for AD, monitoring, and self-hosted apps
