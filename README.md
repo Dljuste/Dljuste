@@ -58,7 +58,7 @@
 - ✅ Linux installs, networking basics, service experiments  
 - ✅ Goal: stable lab for AD, monitoring, and self-hosted apps
     
-[![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-blue?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME/homelab-project)  
+[![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/Future-Homelab)  
 
 
 ---
