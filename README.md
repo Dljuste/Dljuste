@@ -62,12 +62,28 @@
 
 
 ---
-## ☁️ IT Skills I’m Practicing  
+## 💻 IT Skills & Hands-On Projects
 - 🔹 **Azure Cloud**: Resource Groups, VMs, Storage Accounts, RBAC, monitoring  
 - 🔹 **VPNs**: Secure networking with ProtonVPN  
 - 🔹 **Windows Server & Active Directory** (learning): DNS, GPOs, permissions, PowerShell  
 - 🔹 **Ticketing Systems**: Jira, osTicket configuration  
-- 🔹 **Homelab Experimentation**: Proxmox, VirtualBox, Linux installs  
+- 🔹 **Homelab Experimentation**: Proxmox, VirtualBox, Linux installs
+- 🔹 **Raspberry Pi Assembly & Setup**: Assembled a Pi using a CanaKit, installed Raspberry Pi OS, and configured it for desktop and project use
+  
+
+---
+
+## 🟢 Raspberry Pi Projects  
+
+- **[Raspberry Pi Assembly](https://github.com/daphne-systems/RaspberryPi-Assembly)**  
+  Assembled a Raspberry Pi using a CanaKit — installed heatsinks, mounted the case, prepared the microSD with Raspberry Pi OS, and verified first boot.  
+
+- **Raspberry Pi OS Setup** – *Coming Soon* 🖥️  
+  Installing and configuring Raspberry Pi OS to create a functional desktop environment.  
+
+- **RetroPie Build** – *Coming Soon* 🎮  
+  Transforming a Raspberry Pi into a retro gaming console, including controller setup and emulation station configuration.  
+
 
 ---
 
@@ -79,7 +95,7 @@
 - 🏥 Utilized the **Medicat toolkit** for system recovery  
 - 🏠 Started a **mini homelab** with VirtualBox/Proxmox  
 
-**Next project:** 🥧 Building a **Raspberry Pi retro gaming empire**  
+**Next project:** 🥧 B a **Raspberry Pi retro gaming empire**  
 
 ---
 
