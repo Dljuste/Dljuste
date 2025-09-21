@@ -76,7 +76,7 @@
 - 🎶 Modified my **PSP firmware** → runs without physical games  
 - 🛠️ Repaired PSP hardware parts (hands-on IT 💪)  
 - 🐧 Booted **Linux** on old laptops & revived them  
-- 🏥 Built my own **Medicat toolkit** for system recovery  
+- 🏥 Utilized the **Medicat toolkit** for system recovery  
 - 🏠 Started a **mini homelab** with VirtualBox/Proxmox  
 
 **Next project:** 🥧 Building a **Raspberry Pi retro gaming empire**  
