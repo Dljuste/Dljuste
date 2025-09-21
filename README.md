@@ -75,7 +75,7 @@
 
 ## 🟢 Raspberry Pi Projects  
 
-- **[Raspberry Pi Assembly](https://github.com/daphne-systems/RaspberryPi-Assembly)**  
+- **[Raspberry Pi Assembly](https://github.com/daphne-systems/Raspberry-Pi-Assembly-Guide)**  
   Assembled a Raspberry Pi using a CanaKit — installed heatsinks, mounted the case, prepared the microSD with Raspberry Pi OS, and verified first boot.  
 
 - **Raspberry Pi OS Setup** – *Coming Soon* 🖥️  
@@ -95,7 +95,7 @@
 - 🏥 Utilized the **Medicat toolkit** for system recovery  
 - 🏠 Started a **mini homelab** with VirtualBox/Proxmox  
 
-**Next project:** 🥧 B a **Raspberry Pi retro gaming empire**  
+**Next project:** 🥧 **Raspberry Pi OS setup**  
 
 ---
 
