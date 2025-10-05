@@ -34,8 +34,7 @@
 
 ---
 
-## 🦘 osTicket Installation  
- 🔹 Microsoft Azure subscription (for creating VMs)
+## 🦘 Help Desk Ticketing Lab – Codex Systems (coming soon)  
 
  🔹 Windows 10 / Windows Server VM (with Remote Desktop access)
 
@@ -45,7 +44,7 @@
 
  🔹 Downloaded osTicket installation files
   
-[![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-orange?style=for-the-badge&logo=github)](https://github.com/daphne-systems/osTicket---Prerequisites-and-Installation)  
+[![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-orange?style=for-the-badge&logo=github)](https://github.com/daphne-systems/osTicket)  
 
 ---
 
