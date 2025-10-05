@@ -25,7 +25,7 @@
 ✅ Set a company-wide desktop wallpaper using GPO  
 ✅ Blocked Control Panel/Settings for non-admin users  
     
-[![View Repo](https://img.shields.io/badge/GitHub-Azure/AD%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/ActiveDirectory-GPO)  
+[![View Repo](https://img.shields.io/badge/GitHub-Azure/AD%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/Codex-ADLab/blob/main/README.md)  
 
 ---
 ## 📌 Jira Ticketing Lab  
