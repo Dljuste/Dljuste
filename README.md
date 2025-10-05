@@ -19,7 +19,7 @@
 
 # 🚀 Projects Showcase 
 ---
-## 🖥️ Active Directory Lab – Codex Systems (Fictional Company)
+## 📁 Active Directory Lab – Codex Systems (Fictional Company)
  
 🔹 Set up Windows Server 2025 as a Domain Controller for `codex.local`  
 🔹 Installed and configured Active Directory Domain Services (AD DS)  
