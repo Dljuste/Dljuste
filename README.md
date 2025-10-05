@@ -14,7 +14,20 @@
 - 🔐 **Security+** — Objectives starting: threat types, basic hardening, identity concepts
 ---
 # 🚀 Projects Showcase  
+## 🖥️ Active Directory Lab – Codex Systems (Fictional Company)
+ 
+✅ Set up Windows Server 2025 as a Domain Controller for `codex.local`  
+✅ Installed and configured Active Directory Domain Services (AD DS)  
+✅ Created departments with Organizational Units (OUs)  
+✅ Added fictional users and placed them in the correct OUs  
+✅ Built Security Groups to manage user access by role  
+✅ Applied Group Policy Objects (GPOs) for password rules  
+✅ Set a company-wide desktop wallpaper using GPO  
+✅ Blocked Control Panel/Settings for non-admin users  
+    
+[![View Repo](https://img.shields.io/badge/GitHub-Azure/AD%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/ActiveDirectory-GPO)  
 
+---
 ## 📌 Jira Ticketing Lab  
 - ✅ Simulated IT workflows, triage, and escalation  
 - ✅ Created/managed tickets, added comments/attachments
@@ -38,20 +51,6 @@
 
 ---
 
-## 📌 Azure/AD Cloud Lab  
-- ✅ Deployed Windows Server VM in Azure and configured as Domain Controller  
-- ✅ Installed and configured Active Directory Domain Services (AD DS)  
-- ✅ Created and organized Organizational Units (OUs) for users and groups  
-- ✅ Implemented Group Policy Objects (GPOs) for password policies  
-- ✅ Configured GPOs to map network drives for users  
-- ✅ Applied GPO to enforce a default desktop wallpaper across the domain  
-- ✅ Restricted Control Panel access for non-admin users via GPO  
-- ✅ Blocked USB storage devices for enhanced data security  
-
-    
-[![View Repo](https://img.shields.io/badge/GitHub-Azure/AD%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/daphne-systems/ActiveDirectory-GPO)  
-
----
 
 ## 📌 (Coming Soon) Homelab Build  
 - ✅ Virtualized hosts with **VirtualBox / Proxmox**  
