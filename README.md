@@ -30,7 +30,7 @@
 🔹 Set a company-wide desktop wallpaper using GPO  
 🔹 Blocked Control Panel/Settings for non-admin users  
     
-[![View Repo](https://img.shields.io/badge/GitHub-AD%20Lab-orange?style=for-the-badge&logo=github)](https://github.com/daphne-systems/Codex-ADLab/blob/main/README.md)  
+[![View Repo](https://img.shields.io/badge/GitHub-AD%20Lab-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/Codex-ADLab/blob/main/README.md)  
 
 ---
 
@@ -44,7 +44,7 @@
 
  🔹 Downloaded osTicket installation files
   
-[![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-orange?style=for-the-badge&logo=github)](https://github.com/daphne-systems/osTicket)  
+[![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/osTicket)  
 
 ---
 
@@ -54,7 +54,7 @@
  🔹 Linux installs, networking basics, service experiments  
  🔹 Goal: stable lab for monitoring, and self-hosted apps
     
-[![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-orange?style=for-the-badge&logo=github)](https://github.com/daphne-systems/Future-Homelab)  
+[![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/Future-Homelab)  
 
 
 ---
