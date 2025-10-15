@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Daphne  
 ---
 
+![Codex Systems IT Labs](https://img.shields.io/badge/Codex_Systems_IT_Labs-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+
+---
 ## 👩‍💻 About Me
 
 🎓 Currently pursuing my **B.S. in Information Technology at WGU**  
