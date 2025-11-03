@@ -1,14 +1,6 @@
 # 👋 Hi, I'm Daphne  
 ---
 
-## 👩‍💻 About Me
-
-🎓 Currently pursuing my **B.S. in Information Technology at WGU**  
-🔧 Certified: **CompTIA A+** | **ITIL 4**  
-📚 Studying: **Network+** & **Security+**  
-
----
-
 ## Core Tech Skills
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
