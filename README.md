@@ -48,9 +48,7 @@
 
 ---
 
-## 🦘 Help Desk Ticketing Lab – Codex Systems (coming soon)  
-
- 🦘 Help Desk Ticketing Lab – Codex Systems *(Coming Soon)*
+## 💻 Help Desk Ticketing Lab – Codex Systems 
 
 🔹 **Windows 10/11** and **Windows Server 2019/2025** virtual machines deployed and managed in **Microsoft Azure**
 
