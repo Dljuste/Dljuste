@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Daphne  
 ---
 
-![Codex Systems IT Labs](https://img.shields.io/badge/Codex_Systems_IT_Labs-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-
----
 ## 👩‍💻 About Me
 
 🎓 Currently pursuing my **B.S. in Information Technology at WGU**  
@@ -54,17 +50,23 @@
 
 ## 🦘 Help Desk Ticketing Lab – Codex Systems (coming soon)  
 
- 🔹 Windows Server/Windows 10 VM configured with Vmware
+ 🦘 Help Desk Ticketing Lab – Codex Systems *(Coming Soon)*
 
-🔹 Internet Information Services (IIS) installed and running
+🔹 **Windows 10/11** and **Windows Server 2019/2025** virtual machines deployed and managed in **Microsoft Azure**
 
-🔹 PHP & MySQL installed, configured, and ready for web application deployment
+🔹 **Internet Information Services (IIS)** installed and operational
 
-🔹 osTicket installed and being configured for ticketing workflows
+🔹 **PHP & MySQL** installed, configured, and ready for web application deployment
 
-🔹 Active Directory Integration planned for user authentication and access management
+🔹 **osTicket** installed and customized for help desk ticketing workflows
 
-🔹 Lab Focus: Testing ticket creation, ticket assignment, notifications, and printer/network connectivity scenarios
+🔹 **Active Directory / Entra ID** integration planned for centralized authentication and access management
+
+🔹 **Microsoft 365** integrated for user communication and ticket notifications
+
+🔹 **Spiceworks** utilized for asset tracking and additional support simulations
+
+🔹 **Lab Focus:** Testing ticket creation, assignment, notifications, and troubleshooting scenarios (printer and network connectivity)
   
 [![View Repo](https://img.shields.io/badge/GitHub-osTicket%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/osTicket)  
 
