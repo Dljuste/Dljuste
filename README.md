@@ -73,7 +73,7 @@
 🔹 Troubleshoot connectivity, DHCP behavior, and routing paths 
  
     
-[![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/Future-Homelab)  
+[![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/Home-Networking)  
 
 
 ---
