@@ -64,7 +64,14 @@
 
 
 ## 🏠 Personal Home network Build  
- 🔹 Physical devices **Router,Switch, and Modem**  
+🔹 Create an isolated lab environment for safe network testing  
+🔹 Monitor traffic flows using ntopng  
+🔹 Capture packets and analyze protocols in Wireshark  
+🔹 Test secure routing with WireGuard, OpenVPN, and Tor  
+🔹 Observe encrypted vs unencrypted traffic behavior  
+🔹 Understand switch features like VLANs & Port Mirroring (not fully utilized due to limited endpoints)  
+🔹 Troubleshoot connectivity, DHCP behavior, and routing paths 
+ 
     
 [![View Repo](https://img.shields.io/badge/GitHub-Homelab%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/Future-Homelab)  
 
