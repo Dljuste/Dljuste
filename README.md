@@ -58,7 +58,7 @@
 
 🔹 **Lab Focus:** Testing ticket creation, assignment, notifications, and troubleshooting scenarios (printer and network connectivity)
   
-[![View Repo](https://img.shields.io/badge/GitHub-Ticketing%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/Codex-Systems-IT-Ticketing-System-Lab)  
+[![View Repo](https://img.shields.io/badge/GitHub-Ticket%20Project-orange?style=for-the-badge&logo=github)](https://github.com/Dljuste/Codex-Systems-IT-Ticketing-System-Lab)  
 
 ---
 
